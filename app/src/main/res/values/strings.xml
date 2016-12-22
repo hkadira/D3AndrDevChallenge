@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">D3DevChallenge</string>
+    <string name="title">Android spinner exercise</string>
+
+    <string name="d1">Welcome to Day 1</string>
+    <string name="d2">Welcome to Day 2</string>
+    <string name="d3">Welcome to Day 3</string>
+    <string name="d4">Welcome to Day 4</string>
+    <string name="d5">Welcome to Day 5</string>
+
+    <string-array name="days">
+        <item>Select an option</item>
+        <item>Welcome to Day 1</item>
+        <item>Welcome to Day 2</item>
+        <item>Welcome to Day 3</item>
+        <item>Welcome to Day 4</item>
+        <item>Welcome to Day 5</item>
+    </string-array>
+</resources>
